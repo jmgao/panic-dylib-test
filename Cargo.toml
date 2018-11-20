@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "root",
+  "leaf",
+]
+
+[profile.dev]
+panic = "abort"
